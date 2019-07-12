@@ -3,7 +3,7 @@
 
  This example has 3 different light switch tyes. Buttons, Animations, and a Slider.
  
-#Dependencies
+# Dependencies
  VRC SDK:
  https://vrchat.com/download/sdk
 
